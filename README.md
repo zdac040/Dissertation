@@ -8,7 +8,7 @@ The project is structured in the following way:
  - FINALCODE contains the final project. I set it up as so:
    - ESB_final_code.ino and ESB_final_code.py are respectively the Arduino software code and the python code. Final_attack.py is the file of the attack.
    - model.h5 is the saved model that is already uploaded in all python codes.
-   - TensorFlow model contains the Google Colab neural network (this is not needed when running the project since in it I created the neural network).
+   - TensorFlowModel contains the Google Colab neural network (this is not needed when running the project since in it I created the neural network).
    - DatasetsPyserial+Attack contains the original file and the attack one but updated to be used with the datasets.
    - file.h contains the file to insert the Wifi and password.
  
